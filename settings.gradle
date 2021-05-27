@@ -1,0 +1,2 @@
+rootProject.name = "Viktorina s voprosami"
+include ':app'

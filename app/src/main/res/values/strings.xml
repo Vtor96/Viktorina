@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Viktorina s voprosami</string>
+    <string name="correct">Правильно!</string>
+    <string name="incorrect">Неправильно!</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="exit">Выход</string>
+    <string name="showAnswer">Показать ответ</string>
+
+    <string name="question0">У альбатроса самый большой размах крыльев?</string>
+    <string name="question1">Сова считается символом лени?</string>
+    <string name="question2">Тираннозавр был хищником?</string>
+    <string name="question3">Телёнок это детеныш коровы?</string>
+    <string name="question4">У пауков шесть ног?</string>
+    <string name="question5">У жука 2 крыла?</string>
+</resources>
